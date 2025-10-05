@@ -6,7 +6,7 @@ A MelonLoader plugin designed to load and run **BepInEx 6** from within a MelonL
 
 This project is an attempt to create a compatibility layer that allows BepInEx 6 plugins to be used in games that are being launched and modded with MelonLoader. This is a unique and complex challenge, as no official solution for chainloading BepInEx from MelonLoader currently exists.
 
-You must use the edited BepInEx config file in order for this plugin to load correctly.
+**You must use the edited BepInEx config file in order for this plugin to load correctly.**
 
 ## ⚠️ Current Status: Not Functional
 
